@@ -10,7 +10,7 @@
       <table>
 					<tr>
 						<td class="first">
-                <form id="form-login"  method="post" autocomplete="off" action="index.php">
+                <form id="form-login"  method="post" autocomplete="off" action="index.html">
 
 
                     
